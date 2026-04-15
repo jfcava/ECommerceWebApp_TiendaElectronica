@@ -38,10 +38,6 @@ Si deseas clonar y probar este proyecto en tu entorno local, sigue estos pasos:
 4. **Ejecutar la aplicación:**
 * Presiona `F5` o haz clic en "Iniciar" en Visual Studio para correr el proyecto.
 
-## 📸 Capturas de Pantalla
-
-*(Nota: Aquí agregaré próximamente GIFs o capturas mostrando el funcionamiento del login, el catálogo y el panel de administrador).*
-
 ## 👨‍💻 Autor
 
 **Juan Franco Cavallieri**
