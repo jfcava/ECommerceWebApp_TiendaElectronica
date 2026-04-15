@@ -28,7 +28,7 @@ Si deseas clonar y probar este proyecto en tu entorno local, sigue estos pasos:
 
 2. **Configurar la Base de Datos:**
 * Abre SQL Server Management Studio (SSMS).
-* Ejecuta el script SQL incluido en la carpeta raíz del proyecto (ej: `script_db.sql`) para crear la base de datos y las tablas necesarias.
+* Ejecuta el script SQL incluido en la carpeta raíz del proyecto ('CATALOGO_WEB_DB.sql') para crear la base de datos y las tablas necesarias.
 
 3. **Configurar la Cadena de Conexión:**
 * Abre el proyecto en **Visual Studio**.
